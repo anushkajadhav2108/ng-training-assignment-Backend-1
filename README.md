@@ -28,7 +28,7 @@ Setup of Application
 To get started with the Todo Backend application:
 
 Clone the repository:
-https://github.com/anushkajadhav2108/ng-training-assignment-Backend-1
+https://github.com/anushkajadhav2108/ng-training-assignment-Backend-1/tree/main
 
 Navigate into the project directory:
 cd todo-app-backend
